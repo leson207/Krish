@@ -1,0 +1,6 @@
+376129858004.dkr.ecr.ap-southeast-2.amazonaws.com/studentperfomance
+
+sudo apt-get update -y
+sudo apt-get upgrade
+curl -fsSL https://get.docker.com -o get-docker.sh
+newgrp docker
